@@ -2,73 +2,70 @@
 Version 1 of custom transceiver PCB for communications board of CubeSat Spring 2025
 
 <!-- Slide 01 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-01.png" alt="CubeSat Slide 01" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-01.png" alt="CubeSat Slide 01" style="border: 1px solid grey;" />
 
 <!-- Slide 02 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-02.png" alt="CubeSat Slide 02" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-02.png" alt="CubeSat Slide 02" style="border: 1px solid grey;" />
 
 <!-- Slide 03 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-03.png" alt="CubeSat Slide 03" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-03.png" alt="CubeSat Slide 03" style="border: 1px solid grey;" />
 
 <!-- Slide 04 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-04.png" alt="CubeSat Slide 04" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-04.png" alt="CubeSat Slide 04" style="border: 1px solid grey;" />
 
 <!-- Slide 05 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-05.png" alt="CubeSat Slide 05" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-05.png" alt="CubeSat Slide 05" style="border: 1px solid grey;" />
 
 <!-- Slide 06 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-06.png" alt="CubeSat Slide 06" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-06.png" alt="CubeSat Slide 06" style="border: 1px solid grey;" />
 
 <!-- Slide 07 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-07.png" alt="CubeSat Slide 07" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-07.png" alt="CubeSat Slide 07" style="border: 1px solid grey;" />
 
 <!-- Slide 08 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-08.png" alt="CubeSat Slide 08" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-08.png" alt="CubeSat Slide 08" style="border: 1px solid grey;" />
 
 <!-- Slide 09 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-09.png" alt="CubeSat Slide 09" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-09.png" alt="CubeSat Slide 09" style="border: 1px solid grey;" />
 
 <!-- Slide 10 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-10.png" alt="CubeSat Slide 10" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-10.png" alt="CubeSat Slide 10" style="border: 1px solid grey;" />
 
 <!-- Slide 11 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-11.png" alt="CubeSat Slide 11" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-11.png" alt="CubeSat Slide 11" style="border: 1px solid grey;" />
 
 <!-- Slide 12 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-12.png" alt="CubeSat Slide 12" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-12.png" alt="CubeSat Slide 12" style="border: 1px solid grey;" />
 
 <!-- Slide 13 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-13.png" alt="CubeSat Slide 13" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-13.png" alt="CubeSat Slide 13" style="border: 1px solid grey;" />
 
 <!-- Slide 14 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-14.png" alt="CubeSat Slide 14" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-14.png" alt="CubeSat Slide 14" style="border: 1px solid grey;" />
 
 <!-- Slide 15 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-15.png" alt="CubeSat Slide 15" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-15.png" alt="CubeSat Slide 15" style="border: 1px solid grey;" />
 
 <!-- Slide 16 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-16.png" alt="CubeSat Slide 16" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-16.png" alt="CubeSat Slide 16" style="border: 1px solid grey;" />
 
 <!-- Slide 17 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-17.png" alt="CubeSat Slide 17" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-17.png" alt="CubeSat Slide 17" style="border: 1px solid grey;" />
 
 <!-- Slide 18 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-18.png" alt="CubeSat Slide 18" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-18.png" alt="CubeSat Slide 18" style="border: 1px solid grey;" />
 
 <!-- Slide 19 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-19.png" alt="CubeSat Slide 19" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-19.png" alt="CubeSat Slide 19" style="border: 1px solid grey;" />
 
 <!-- Slide 20 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-20.png" alt="CubeSat Slide 20" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-20.png" alt="CubeSat Slide 20" style="border: 1px solid grey;" />
 
 <!-- Slide 21 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-21.png" alt="CubeSat Slide 21" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-21.png" alt="CubeSat Slide 21" style="border: 1px solid grey;" />
 
 <!-- Slide 22 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-22.png" alt="CubeSat Slide 22" />
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-22.png" alt="CubeSat Slide 22" style="border: 1px solid grey;" />
 
 <!-- Slide 23 -->
-<img src="slides/CubeSat Comms PCB PPT - Spring 2025-23.png" alt="CubeSat Slide 23" />
-
-
- 
+<img src="slides/CubeSat Comms PCB PPT - Spring 2025-23.png" alt="CubeSat Slide 23" style="border: 1px solid grey;" />
