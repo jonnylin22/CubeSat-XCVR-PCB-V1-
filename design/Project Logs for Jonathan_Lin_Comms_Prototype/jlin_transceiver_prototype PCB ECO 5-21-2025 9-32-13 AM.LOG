@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CSn Pin=U3-49
+Change Component Description : Designator=C10 Old Description=3.9 pF ?.25pF 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric) New Description=3.9 pF ±0.25pF 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)
+Change Component Description : Designator=C12 Old Description=3.9 pF ?.25pF 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric) New Description=3.9 pF ±0.25pF 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)
+Change Component Description : Designator=L2 Old Description=IND 22nH 0.3A 500m? New Description=IND 22nH 0.3A 500mâ„
+Added Pin To Net: NetName=CSn Pin=U3-101

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=* NewDesignator=C1
+Change Component Designator: OldDesignator=* NewDesignator=C2
+Change Component Designator: OldDesignator=* NewDesignator=C5
+Change Component Designator: OldDesignator=*? NewDesignator=C3
+Change Component Designator: OldDesignator=*? NewDesignator=C4
+Change Component Designator: OldDesignator=*? NewDesignator=C6
+Change Component Designator: OldDesignator=*? NewDesignator=C7
+Change Component Designator: OldDesignator=*? NewDesignator=C8
+Added Member To Class: ClassName=stm32_mcu Member=Component C1 10-89-7120
+Added Member To Class: ClassName=stm32_mcu Member=Component C2 10-89-7120
+Added Member To Class: ClassName=stm32_mcu Member=Component C3 10-89-7120
+Added Member To Class: ClassName=stm32_mcu Member=Component C6 10-89-7120
+Added Member To Class: ClassName=stm32_mcu Member=Component C7 10-89-7120
+Added Member To Class: ClassName=stm32_mcu Member=Component C8 10-89-7120

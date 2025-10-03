@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=CONN1 Old DesignItemId=CMP-002-00074-1 New DesignItemId=CMP-002-00074-3
+Change Component DesignItemId : Designator=CONN3 Old DesignItemId=CMP-002-00074-1 New DesignItemId=CMP-002-00074-3
+Change Component DesignItemId : Designator=CONN7 Old DesignItemId=CMP-002-00074-1 New DesignItemId=CMP-002-00074-3
+Change Component DesignItemId : Designator=CONN8 Old DesignItemId=CMP-002-00074-1 New DesignItemId=CMP-002-00074-3
+Change Component Footprint: Designator=CONN1 Old Footprint=CONN12_0010897120_MOL New Footprint=CONN12_0010897120_MOL
+Change Component Footprint: Designator=CONN3 Old Footprint=CONN12_0010897120_MOL New Footprint=CONN12_0010897120_MOL
+Change Component Footprint: Designator=CONN7 Old Footprint=CONN12_0010897120_MOL New Footprint=CONN12_0010897120_MOL
+Change Component Footprint: Designator=CONN8 Old Footprint=CONN12_0010897120_MOL New Footprint=CONN12_0010897120_MOL
+Change Managed Component Library Link : Designator=CONN1 Old VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE New VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE Old ItemGUID=185a3ba5-3712-4b61-8d29-ea65eb0bc5bd New ItemGUID=185a3ba5-3712-4b61-8d29-ea65eb0bc5bd Old RevisionGUID=0b2ba6e5-c052-46b2-b05b-a30976e2600f New RevisionGUID=aa900091-dd8c-43ec-b7af-0dc8406028e3
+Change Managed Component Library Link : Designator=CONN3 Old VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE New VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE Old ItemGUID=185a3ba5-3712-4b61-8d29-ea65eb0bc5bd New ItemGUID=185a3ba5-3712-4b61-8d29-ea65eb0bc5bd Old RevisionGUID=0b2ba6e5-c052-46b2-b05b-a30976e2600f New RevisionGUID=aa900091-dd8c-43ec-b7af-0dc8406028e3
+Change Managed Component Library Link : Designator=CONN7 Old VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE New VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE Old ItemGUID=185a3ba5-3712-4b61-8d29-ea65eb0bc5bd New ItemGUID=185a3ba5-3712-4b61-8d29-ea65eb0bc5bd Old RevisionGUID=0b2ba6e5-c052-46b2-b05b-a30976e2600f New RevisionGUID=aa900091-dd8c-43ec-b7af-0dc8406028e3
+Change Managed Component Library Link : Designator=CONN8 Old VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE New VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE Old ItemGUID=185a3ba5-3712-4b61-8d29-ea65eb0bc5bd New ItemGUID=185a3ba5-3712-4b61-8d29-ea65eb0bc5bd Old RevisionGUID=0b2ba6e5-c052-46b2-b05b-a30976e2600f New RevisionGUID=aa900091-dd8c-43ec-b7af-0dc8406028e3

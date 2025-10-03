@@ -1,0 +1,46 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: transceiver_board_V1.GBR   6/10/2025  3:19:25 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                L1-CU                                   
+.gbr                L2-CU                                   
+.gbr                L3-CU                                   
+.gbr                L4-CU                                   
+.gbr                Board Layer Stack Bottom Solder         
+.gbr                Bottom Paste                            
+.gbr                Board Layer Stack Bottom Overlay        
+.gbr                Mechanical 1                            
+.gbr                Board                                   
+.gbr                Route Tool Path                         
+.gbr                Top 3D Body                             
+.gbr                Top Courtyard                           
+.gbr                Top Assembly                            
+.gbr                Top Designator                          
+.gbr                Bottom Designator                       
+.gbr                Top Component Outline                   
+.gbr                Bottom Component Outline                
+.gbr                Mechanical 13                           
+.gbr                Mechanical 15                           
+.gbr                Top Component Center                    
+.gbr                Bottom Assembly                         
+.gbr                Bottom Courtyard                        
+.gbr                Bottom 3D Body                          
+.gbr                Bottom Component Center                 
+.gbr                Keep-Out Layer                          
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Dielectric 1                            
+.gbr                Multi-Layer                             
+.gbr                Core                                    
+.gbr                Dielectric 3                            
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

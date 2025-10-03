@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=PE5 Pin=C10-1
+Added Pin To Net: NetName=PF9 Pin=C10-2
+Added Pin To Net: NetName=PC13 Pin=C10-3
+Added Pin To Net: NetName=PF8 Pin=C10-4
+Added Pin To Net: NetName=PC15-OSC32_OUT Pin=C10-5
+Added Pin To Net: NetName=PF7 Pin=C10-6
+Added Pin To Net: NetName=PC14-OSC32_IN Pin=C10-7
+Added Pin To Net: NetName=PF6 Pin=C10-8
+Added Pin To Net: NetName=PH0-OSC_IN Pin=C12-1
+Added Pin To Net: NetName=PF10 Pin=C12-2
+Added Pin To Net: NetName=PC0 Pin=C12-3
+Added Pin To Net: NetName=PH1-OSC_OUT Pin=C12-4
+Added Pin To Net: NetName=PC1 Pin=C12-5
+Added Pin To Net: NetName=PC2_C Pin=C12-6
+Added Pin To Net: NetName=PC3_C Pin=C12-7
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C1 GRM2165C1H101JA01D
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C4 GRM2165C1H221JA01D
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C7 GRM21BR72A103KA01K

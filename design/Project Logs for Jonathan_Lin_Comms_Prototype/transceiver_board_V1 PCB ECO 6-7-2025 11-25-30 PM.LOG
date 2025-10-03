@@ -1,0 +1,399 @@
+Removed Pin From Net: NetName=PA8 Pin=C3-9
+Removed Pin From Net: NetName=PA9 Pin=C3-10
+Removed Pin From Net: NetName=PA10 Pin=C3-11
+Removed Pin From Net: NetName=PA11 Pin=C3-12
+Added Component: Designator=C1(CONN12_0010897120_MOL)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.2inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.09inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "0.6inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body/Shell Style"; Value = "RECEPTACLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "GOLD (30) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN (75) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Withstanding Voltage (AC)"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIN Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Durability"; Value = "50Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Feature"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "70280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Information"; Value = "MULTIPLE MATING PARTS AVAILABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MIL Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mixed Contacts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Option"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating Thickness"; Value = "30uin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.107inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CONN12_0010897120_MOL)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.2inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.09inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "0.6inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body/Shell Style"; Value = "RECEPTACLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "GOLD (30) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN (75) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Withstanding Voltage (AC)"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIN Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Durability"; Value = "50Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Feature"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "70280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Information"; Value = "MULTIPLE MATING PARTS AVAILABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MIL Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mixed Contacts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Option"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating Thickness"; Value = "30uin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.107inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CONN12_0010897120_MOL)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.2inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.09inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "0.6inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body/Shell Style"; Value = "RECEPTACLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "GOLD (30) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN (75) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Withstanding Voltage (AC)"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIN Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Durability"; Value = "50Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Feature"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "70280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Information"; Value = "MULTIPLE MATING PARTS AVAILABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MIL Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mixed Contacts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Option"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating Thickness"; Value = "30uin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.107inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CONN12_0010897120_MOL)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.2inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.09inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "0.6inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body/Shell Style"; Value = "RECEPTACLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "GOLD (30) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN (75) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Withstanding Voltage (AC)"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIN Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Durability"; Value = "50Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Feature"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "70280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Information"; Value = "MULTIPLE MATING PARTS AVAILABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MIL Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mixed Contacts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Option"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating Thickness"; Value = "30uin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.107inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CONN12_0010897120_MOL)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.2inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.09inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "0.6inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body/Shell Style"; Value = "RECEPTACLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "GOLD (30) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN (75) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Withstanding Voltage (AC)"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIN Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Durability"; Value = "50Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Feature"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "70280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Information"; Value = "MULTIPLE MATING PARTS AVAILABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MIL Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mixed Contacts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Option"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating Thickness"; Value = "30uin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.107inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CONN12_0010897120_MOL)
+Add component (AddParameter): Name = "Body Breadth"; Value = "0.2inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = "0.09inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = "0.6inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body/Shell Style"; Value = "RECEPTACLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "GOLD (30) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = "TIN (75) OVER NICKEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "SQ PIN-SKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Withstanding Voltage (AC)"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIN Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Durability"; Value = "50Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Feature"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "70280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Information"; Value = "MULTIPLE MATING PARTS AVAILABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MIL Conformance"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mixed Contacts"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = "LOCKING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "STRAIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of PCB Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Option"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = "RECTANGULAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating Thickness"; Value = "30uin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = "0.107inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PF6 Pin=C1-1
+Added Pin To Net: NetName=PF7 Pin=C1-2
+Added Pin To Net: NetName=PF8 Pin=C1-3
+Added Pin To Net: NetName=PF9 Pin=C1-4
+Added Pin To Net: NetName=PF10 Pin=C1-5
+Added Pin To Net: NetName=PF11 Pin=C1-6
+Added Pin To Net: NetName=PF14 Pin=C1-7
+Added Pin To Net: NetName=PF15 Pin=C1-8
+Added Pin To Net: NetName=PG6 Pin=C2-1
+Added Pin To Net: NetName=PG7 Pin=C2-2
+Added Pin To Net: NetName=PG8 Pin=C2-3
+Added Pin To Net: NetName=PG9 Pin=C2-4
+Added Pin To Net: NetName=PG610 Pin=C2-5
+Added Pin To Net: NetName=PG11 Pin=C2-6
+Added Pin To Net: NetName=PG12 Pin=C2-7
+Added Pin To Net: NetName=PG13 Pin=C2-8
+Added Pin To Net: NetName=PG14 Pin=C2-9
+Added Pin To Net: NetName=PC4 Pin=C3-9
+Added Pin To Net: NetName=PB0 Pin=C3-10
+Added Pin To Net: NetName=PC5 Pin=C3-11
+Added Pin To Net: NetName=PB1 Pin=C3-12
+Added Pin To Net: NetName=PD3 Pin=C4-1
+Added Pin To Net: NetName=PD4 Pin=C4-2
+Added Pin To Net: NetName=PB5 Pin=C4-3
+Added Pin To Net: NetName=PD6 Pin=C4-4
+Added Pin To Net: NetName=PD7 Pin=C4-5
+Added Pin To Net: NetName=PD8 Pin=C4-6
+Added Pin To Net: NetName=PD9 Pin=C4-7
+Added Pin To Net: NetName=PD10 Pin=C4-8
+Added Pin To Net: NetName=PD11 Pin=C4-9
+Added Pin To Net: NetName=PD12 Pin=C4-10
+Added Pin To Net: NetName=PD13 Pin=C4-11
+Added Pin To Net: NetName=PC0 Pin=C5-1
+Added Pin To Net: NetName=PC1 Pin=C5-2
+Added Pin To Net: NetName=PC2_C Pin=C5-3
+Added Pin To Net: NetName=PC3_C Pin=C5-4
+Added Pin To Net: NetName=PC6 Pin=C5-7
+Added Pin To Net: NetName=PC7 Pin=C5-8
+Added Pin To Net: NetName=PC8 Pin=C5-9
+Added Pin To Net: NetName=PC9 Pin=C5-10
+Added Pin To Net: NetName=PC13 Pin=C5-11
+Added Pin To Net: NetName=PA12 Pin=C7-1
+Added Pin To Net: NetName=PA15 Pin=C7-2
+Added Pin To Net: NetName=PC15-OSC32_OUT Pin=C7-3
+Added Pin To Net: NetName=PH1-OSC_OUT Pin=C7-4
+Added Pin To Net: NetName=PH0-OSC_IN Pin=C7-5
+Added Pin To Net: NetName=PC14-OSC32_IN Pin=C7-6
+Added Pin To Net: NetName=PD14 Pin=C7-11
+Added Pin To Net: NetName=PD15 Pin=C7-12
+Added Pin To Net: NetName=PB2 Pin=C8-3
+Added Pin To Net: NetName=PB4 Pin=C8-4
+Added Pin To Net: NetName=PB5 Pin=C8-5
+Added Pin To Net: NetName=PB6 Pin=C8-6
+Added Pin To Net: NetName=PB7 Pin=C8-7
+Added Pin To Net: NetName=PB10 Pin=C8-8
+Added Pin To Net: NetName=PB11 Pin=C8-9
+Added Pin To Net: NetName=PB12 Pin=C8-10
+Added Pin To Net: NetName=PB13 Pin=C8-11
+Added Pin To Net: NetName=PB14 Pin=C8-12
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C1 GRM2165C1H101JA01D
+Added Member To Class: ClassName=stm32_mcu Member=Component C1 10-89-7120
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C2 GRM21BR72A104KAC4L
+Added Member To Class: ClassName=stm32_mcu Member=Component C2 10-89-7120
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C4 GRM2165C1H221JA01D
+Added Member To Class: ClassName=stm32_mcu Member=Component C4 10-89-7120
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C5 GRM21BR72A103KA01K
+Added Member To Class: ClassName=stm32_mcu Member=Component C5 10-89-7120
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C7 GRM21BR72A103KA01K
+Added Member To Class: ClassName=stm32_mcu Member=Component C7 10-89-7120
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C8 GRM2165C1H221JA01D
+Added Member To Class: ClassName=stm32_mcu Member=Component C8 10-89-7120

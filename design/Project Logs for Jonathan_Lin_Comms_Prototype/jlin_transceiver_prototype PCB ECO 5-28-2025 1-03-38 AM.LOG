@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GDO0 Pin=MCU-9
+Removed Pin From Net: NetName=VPC Pin=MCU-43
+Removed Pin From Net: NetName=SCLK Pin=MCU-44
+Removed Pin From Net: NetName=SO Pin=MCU-45
+Removed Pin From Net: NetName=SI Pin=MCU-46
+Removed Pin From Net: NetName=BYP Pin=MCU-65
+Removed Pin From Net: NetName=GDO2 Pin=MCU-66
+Removed Pin From Net: NetName=EN Pin=MCU-75
+Removed Pin From Net: NetName=CSn Pin=MCU-101
+Removed Pin From Net: NetName=TR Pin=MCU-108
+Change Component Designator: OldDesignator=FL NewDesignator=SAW
+Added Pin To Net: NetName=TR Pin=MCU-1
+Added Pin To Net: NetName=BYP Pin=MCU-2
+Added Pin To Net: NetName=EN Pin=MCU-3
+Added Pin To Net: NetName=VPC Pin=MCU-4
+Added Pin To Net: NetName=SCLK Pin=MCU-109
+Added Pin To Net: NetName=SO Pin=MCU-110
+Added Pin To Net: NetName=SI Pin=MCU-111
+Added Pin To Net: NetName=CSn Pin=MCU-112
+Added Pin To Net: NetName=GDO0 Pin=MCU-113
+Added Pin To Net: NetName=GDO2 Pin=MCU-114
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetFEM_14
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetMCU_142

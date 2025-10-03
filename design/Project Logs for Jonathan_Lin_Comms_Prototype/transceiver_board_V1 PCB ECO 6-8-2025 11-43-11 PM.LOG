@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=jlin_transceiver_prototype Member=CONN1
+Removed Member From Class: ClassName=jlin_transceiver_prototype Member=CONN2
+Removed Member From Class: ClassName=jlin_transceiver_prototype Member=CONN3
+Removed Member From Class: ClassName=jlin_transceiver_prototype Member=CONN4
+Removed Member From Class: ClassName=jlin_transceiver_prototype Member=CONN5
+Removed Member From Class: ClassName=jlin_transceiver_prototype Member=CONN6
+Removed Member From Class: ClassName=jlin_transceiver_prototype Member=CONN7
+Removed Member From Class: ClassName=jlin_transceiver_prototype Member=CONN8
+Change Component DesignItemId : Designator=CONN2 Old DesignItemId=CMP-002-00075-1 New DesignItemId=CMP-002-00075-2
+Change Component DesignItemId : Designator=CONN5 Old DesignItemId=CMP-002-00075-1 New DesignItemId=CMP-002-00075-2
+Change Component DesignItemId : Designator=CONN6 Old DesignItemId=CMP-002-00075-1 New DesignItemId=CMP-002-00075-2
+Change Component Footprint: Designator=CONN2 Old Footprint=CONN08_0010897080_MOL New Footprint=CONN08_0010897080_MOL
+Change Component Footprint: Designator=CONN5 Old Footprint=CONN08_0010897080_MOL New Footprint=CONN08_0010897080_MOL
+Change Component Footprint: Designator=CONN6 Old Footprint=CONN08_0010897080_MOL New Footprint=CONN08_0010897080_MOL
+Change Managed Component Library Link : Designator=CONN2 Old VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE New VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE Old ItemGUID=a8b31824-4c31-4f8d-8951-51a8ac3aac85 New ItemGUID=a8b31824-4c31-4f8d-8951-51a8ac3aac85 Old RevisionGUID=2498b38c-5fed-4f18-a9a0-61dd32cb77bc New RevisionGUID=2322b054-0b0a-4fef-8fdb-8237b4b300ac
+Change Managed Component Library Link : Designator=CONN5 Old VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE New VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE Old ItemGUID=a8b31824-4c31-4f8d-8951-51a8ac3aac85 New ItemGUID=a8b31824-4c31-4f8d-8951-51a8ac3aac85 Old RevisionGUID=2498b38c-5fed-4f18-a9a0-61dd32cb77bc New RevisionGUID=2322b054-0b0a-4fef-8fdb-8237b4b300ac
+Change Managed Component Library Link : Designator=CONN6 Old VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE New VaultGUID=59171B91-8C74-45D8-80FC-D6BCEF457EAE Old ItemGUID=a8b31824-4c31-4f8d-8951-51a8ac3aac85 New ItemGUID=a8b31824-4c31-4f8d-8951-51a8ac3aac85 Old RevisionGUID=2498b38c-5fed-4f18-a9a0-61dd32cb77bc New RevisionGUID=2322b054-0b0a-4fef-8fdb-8237b4b300ac
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C2 GRM21BR72A104KAC4L
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C3 GRM21BR72A104KAC4L
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C5 GRM21BR72A103KA01K
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C6 GRM2165C1H221JA01D
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C9 GRM2165C1H101JA01D
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C10 CC0805CRNPO9BN3R9
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C12 CC0805CRNPO9BN3R9
+Added Member To Class: ClassName=jlin_transceiver_prototype Member=Component C14 C0805C569C5GACTU

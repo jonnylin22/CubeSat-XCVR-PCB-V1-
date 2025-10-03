@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U2-14
+Added Net: Name=NetR8_2
+Added Member To Class: ClassName=R8_Nets Member=Wire GND
+Added Member To Class: ClassName=R8_Nets Member=Wire NetR8_2
+Added Member To Class: ClassName=U2_Nets Member=Wire NetR8_2

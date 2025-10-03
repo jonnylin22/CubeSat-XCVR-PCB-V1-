@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=stm32_mcu Member=C3
+Removed Member From Class: ClassName=stm32_mcu Member=C5
+Removed Member From Class: ClassName=stm32_mcu Member=C6
+Removed Member From Class: ClassName=stm32_mcu Member=C9
+Removed Member From Class: ClassName=stm32_mcu Member=C12
+Removed Member From Class: ClassName=stm32_mcu Member=C14
+Change Component Designator: OldDesignator=C2 NewDesignator=CONN3
+Change Component Designator: OldDesignator=C3 NewDesignator=CONN1
+Change Component Designator: OldDesignator=C5 NewDesignator=CONN7
+Change Component Designator: OldDesignator=C6 NewDesignator=CONN8
+Change Component Designator: OldDesignator=C9 NewDesignator=CONN2
+Change Component Designator: OldDesignator=C10 NewDesignator=CONN5
+Change Component Designator: OldDesignator=C12 NewDesignator=CONN6
+Change Component Designator: OldDesignator=C14 NewDesignator=CONN4
+Added Member To Class: ClassName=stm32_mcu Member=Component CONN1 10-89-7120
+Added Member To Class: ClassName=stm32_mcu Member=Component CONN2 10-89-7080
+Added Member To Class: ClassName=stm32_mcu Member=Component CONN4 10-89-7140
+Added Member To Class: ClassName=stm32_mcu Member=Component CONN6 10-89-7080
+Added Member To Class: ClassName=stm32_mcu Member=Component CONN7 10-89-7120
+Added Member To Class: ClassName=stm32_mcu Member=Component CONN8 10-89-7120
