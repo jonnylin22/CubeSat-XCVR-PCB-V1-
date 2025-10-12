@@ -70,3 +70,5 @@ Version 1 of custom transceiver PCB for communications board of CubeSat Spring 2
 
 <!-- Slide 23 -->
 <img src="slides/CubeSat Comms PCB PPT - Spring 2025-23.png" alt="CubeSat Slide 23" style="max-width:100%; height:auto; border:1px solid #999; display:block; margin:10px 0;" />
+
+<img src="slides/CubeSat Comms PCB IRL" alt="CubeSat Comms PCB IRL" style="max-width:100%; height:auto; border:1px solid #999; display:block; margin:10px 0;" />
